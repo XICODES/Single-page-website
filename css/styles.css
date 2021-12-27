@@ -1,0 +1,31 @@
+.plans {
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+.thumbnail{
+    padding: 0rem;
+    border: 1px solid gray;
+    margin-left: 3rem;
+    margin-right: 1rem;
+    margin-top: 3rem;
+}
+.footer{
+    background-color: #0d1945;
+    margin-top: 3rem; 
+    margin-left: 1.5rem;
+    margin-bottom: 5rem;
+}
+.yellow{
+    color: yellow;
+}
+.orange{
+    color: orange;
+    padding-top: 10px;
+}
+.white{
+    color: #fff;
+}
+.container-fluid{
+    margin-top: 2rem;
+}
+
